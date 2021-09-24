@@ -1,5 +1,5 @@
 
-#About
+# About
 
 The application is aimed at allowing tutors and students to log in to their accounts and find relevant tutors through the creation of tutor requests. As well as to allow tutors to find tutoring opportunities in their subject by displaying their relevant tutor requests from students and allowing them to bid on the request or accept it, in which case, the application creates a contract between the student and the tutor for the specified amount of time.
 	

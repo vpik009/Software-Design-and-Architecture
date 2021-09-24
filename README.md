@@ -1,8 +1,6 @@
 
 
-## API KEY USED THROUGHOUT TESTING:
 
-	Key: rbd8Qnhm7F6MgCCr7TwTkNjfmdjrkp
 
 ## Running the application:
 

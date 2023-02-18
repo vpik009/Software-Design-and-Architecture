@@ -68,7 +68,7 @@ class JSONAdapter:
         self.subjectController = SubjectAPI(self.api_key)
         self.userController = UserAPI(self.api_key)
 
-        self.url = "https://fit3077.com/api/v2/"
+        self.url = "Server is no longer available"
         self.headers = {
             'Authorization': self.api_key
         }

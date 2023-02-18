@@ -12,7 +12,7 @@ class QualificationAPI(APIInterface, object):
 
     def __init__(self, key):
         self.api_key = key
-        self.url = "https://fit3077.com/api/v2/qualification"
+        self.url = "Server is no longer available"
         self.headers = {
             "Authorization": self.api_key
         }

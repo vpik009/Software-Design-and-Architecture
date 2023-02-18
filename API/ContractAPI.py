@@ -12,7 +12,7 @@ class ContractAPI(APIInterface):
 
     def __init__(self, key):
         self.api_key = key
-        self.url = "https://fit3077.com/api/v2/contract"
+        self.url = "Server is no longer available"
         self.headers = {
             # 'Content-type': 'application/json',
             'Authorization': self.api_key

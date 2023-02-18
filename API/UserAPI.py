@@ -11,7 +11,7 @@ class UserAPI(APIInterface):
 
     def __init__(self, key):
             self.api_key = key
-            self.url = "https://fit3077.com/api/v2/user"
+            self.url = "Server is no longer available"
             self.headers = {
                 # 'Content-type': 'application/json',
                 'Authorization': self.api_key
